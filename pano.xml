@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" appversion="7.1.10" hassounds="0" start="node7">
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="3000" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="3000">
+      <level width="3000" height="3000" preload="0" predecode="0"/>
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-221.042" fovmode="2">
+      <start fov="120" tilt="-27.4401" projection="4" pan="-1.96971"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="111.03" tags="Cartoocomunicaovisual" nodeid="node7" description="" heading="-221.042" comment="" info="" title="default" longitude="-48.65609331" copyright="" author="" latitude="-27.62790980" datetime="03/03/2026 08:29" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="-354.602" target="5.1/8.7/120.0" tilt="0" url="{node6}" skinid="ht_node" distance="4.60193"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="132.633" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="4.98" tags="Cartoocomunicaovisual" nodeid="node6" description="" heading="132.633" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65605946" copyright="" author="" latitude="-27.62793832" datetime="2026:03:03 10:00:52" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="default" pan="179.073" target="$fwd" tilt="0" url="{node7}" skinid="ht_node" distance="4.60193"/>
+      <hotspot id="Point02" description="" title="Cartoon Comunicação Visual" pan="5.47272" target="-32.7/-1.6/120.0" tilt="0" url="{node5}" skinid="ht_node" distance="3.81605"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-239.431" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="0.51" tags="Cartoocomunicaovisual" nodeid="node5" description="" heading="-239.431" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65602859" copyright="" author="" latitude="-27.62795905" datetime="2026:03:03 10:00:45" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="-186.591" target="$fwd" tilt="0" url="{node6}" skinid="ht_node" distance="3.81605"/>
+      <hotspot id="Point02" description="" title="Cartoon Comunicação Visual" pan="-363.763" target="-162.1/-10.7/120.0" tilt="0" url="{node3}" skinid="ht_node" distance="7.15683"/>
+      <hotspot id="Point03" description="" title="Cartoon Comunicação Visual" pan="-412.98" target="9.1/-23.9/120.0" tilt="0" url="{node4}" skinid="ht_node" distance="5.88388"/>
+    </hotspots>
+    <media>
+      <webelement rotx="19.660" id="Element01" pan="-26.050" stretch="0.761" hidepinned="0" clickmode="0" fov="53.300" permeable="0" popoutscaling="100" height="315" code="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xJ_a1yRsG4k?si=nv9VOnqhDt4Yi3mC&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen>&lt;/iframe>" rotz="3.470" handcursor="0" popbackmode="0" width="560" tilt="-0.330" roty="-19.840"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-156.157" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="6.32" tags="Cartoocomunicaovisual" nodeid="node3" description="" heading="-156.157" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65596860" copyright="" author="" latitude="-27.62799535" datetime="2026:03:03 10:00:33" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="-100.489" target="-27.8/-9.2/120.0" tilt="0" url="{node5}" skinid="ht_node" distance="7.15683"/>
+      <hotspot id="Point02" description="" title="Cartoon Comunicação Visual" pan="-193.075" target="25.2/-8.2/120.0" tilt="0" url="{node2}" skinid="ht_node" distance="6.99018"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-267.969" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="1.45" tags="Cartoocomunicaovisual" nodeid="node4" description="" heading="-267.969" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65602188" copyright="" author="" latitude="-27.62801163" datetime="2026:03:03 10:00:39" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="-261.518" target="$fwd" tilt="0" url="{node5}" skinid="ht_node" distance="5.88388"/>
+      <hotspot id="Point02" description="" title="Cartoon Comunicação Visual" pan="-355.19" target="-50.3/-11.5/120.0" tilt="0" url="{node1}" skinid="ht_node" distance="6.81252"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="39.0437" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="12.87" tags="Cartoocomunicaovisual" nodeid="node1" description="" heading="39.0437" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65595281" copyright="" author="" latitude="-27.62800866" datetime="2026:03:03 10:00:20" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="131.822" target="12.7/-13.8/120.0" tilt="0" url="{node4}" skinid="ht_node" distance="6.81252"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="1488" overlap="1" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" height="1488">
+      <level width="1488" height="1488" preload="0" predecode="0"/>
+      <level width="744" height="744" preload="0" predecode="0"/>
+      <level width="372" height="372" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-94.6173" fovmode="2">
+      <start fov="120" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360" scaletofit="1"/>
+    </view>
+    <userdata altitude="11.41" tags="Cartoocomunicaovisual" nodeid="node2" description="" heading="-94.6173" comment="" info="" title="Cartoon Comunicação Visual" longitude="-48.65592598" copyright="" author="" latitude="-27.62794509" datetime="2026:03:03 10:00:27" customnodeid="" source=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderalpha="1" background="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" borderradius="1" height="20" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" description="" title="Cartoon Comunicação Visual" pan="48.4652" target="-146.2/-4.1/120.0" tilt="0" url="{node3}" skinid="ht_node" distance="6.99018"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomfov="40" zoomin="7" zoomout="0" type="mesh" softedge="0" blendtime="0.5" zoomafteroutfov="40" delay="none" zoomafterinfov="140" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" contextfullscreen="1" contextprojections="0" speedwheel="1" invertwheel="0" hideabout="0" rubberband="0" lockedkeyboard="0" zoomcentercursor="1" contextvr="1" lockedwheel="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" description="" comment="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
